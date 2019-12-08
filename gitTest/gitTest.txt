@@ -2,11 +2,7 @@ test1
 test.2
 test.3
 
+dev的mine分支
+merge from master
 
-gitMaster
-dev分支
-merge
-
-
-
-gitMaster
+this is 本地 dev
